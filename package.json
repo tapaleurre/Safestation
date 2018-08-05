@@ -1,0 +1,32 @@
+{
+  "name": "safestation",
+  "version": "1.0.0",
+  "description": "An interface for sending messages under specific conditions",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapaleurre/Safestation.git"
+  },
+  "keywords": [
+    "safe",
+    "station",
+    "discord"
+  ],
+  "author": "Simon Foëx",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tapaleurre/Safestation/issues"
+  },
+  "homepage": "https://github.com/tapaleurre/Safestation#readme",
+  "dependencies": {
+    "bufferutil": "^3.0.5",
+    "discord.js": "^11.3.2",
+    "install.js": "^1.0.1",
+    "libsodium-wrappers": "^0.7.3",
+    "opusscript": "0.0.6",
+    "uws": "^9.148.0"
+  }
+}
